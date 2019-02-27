@@ -1,0 +1,39 @@
+{
+  "@context":"http://schema.org/",
+  "@type":"CreativeWork",
+  "about":"This tutorial describes how terms can be added to the eNanoMapper ontology.",
+  "audience":[
+    {
+      "@type":"Audience",
+      "name":"post-docs"
+    }
+  ],
+  "genre":[
+    {
+      "@type":"URL",
+      "url":"http://edamontology.org/topic_0089"
+    },{
+      "@type":"URL",
+      "url":"http://edamontology.org/topic_3070"
+    }
+  ],
+  "name":"Adding ontology terms",
+  "author":[
+    {
+      "@type":"Person",
+      "name":"Egon Willighagen",
+      "identifier":"0000-0001-7542-0286"
+    }
+  ],
+  "difficultyLevel":["Advanced"],
+  "keywords":"ontologies, enanomapper",
+  "license":"CC-BY 4.0",
+  "url":[
+    {
+      "@type":"URL",
+      "url":"https://enanomapper.github.io/tutorials/Added%20ontology%20terms/README.html"
+    }
+  ],
+  "version":"1.0.2"
+}
+		
