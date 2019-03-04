@@ -1,0 +1,28 @@
+{
+  "@context":"http://schema.org/",
+  "@type":"Event",
+  "contact":{
+    "@type": "Organization",
+    "name": "OpenRiskNet",
+    "url": "https://openrisknet.org/"
+  },
+  "socialMedia": [
+    "http://twitter.com/OpenRiskNet"
+  ],
+  "location": "GotoWebinar",
+  "url": "https://openrisknet.org/events/57/",
+  "description": "An introduction to the OpenRiskNet 'OKD Orchestrator', a VRE deployment utility that simplifies the installation of the latest version of the OpenShift OKD container runtime. Our existing production and development platforms are based on the OpenShift runtime and the orchestrator significantly simplifies the installation (and removal) of the runtime for basic (single-node and multi-node) topologies. In the webinar we will explore the main features of the orchestrator and walk through the installation of the built-in example topologies to AWS EC2 and bare-metal (an OpenStack cluster in the SNIC Science Cloud (SSC)). We will also explore the configuration file that controls the runtime topology allowing you to create your own installations.",
+  "name": "Learn how to deploy the OpenRiskNet virtual research environment",
+  "startDate": "2019-02-25T16:00:1Z",
+  "endDate": "2019-02-25T17:00:1Z",
+  "eventType": "workshops and courses",
+  "hostInstitution":{
+    "@type": "Organization",
+    "name": "Informatics Matters Limited (IM)",
+    "url": "https://www.informaticsmatters.com/"
+  },
+  "eligibility": "First come first served",
+  "keywords": ["deployment", "e-infrastructure"],
+  "maximumAttendeeCapacity": 100,
+  "sponsor": ["H2020"]
+}
